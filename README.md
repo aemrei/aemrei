@@ -1,10 +1,1 @@
-- 👋 Hi, I’m Emre
-<!---
-- 👀 I’m interested in React
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-aemrei/aemrei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Emre, an experienced web developer specializing in React, TypeScript, and NextJS with expertise in state management, testing, and performance optimization. Currently working as a contractor for an e-commerce project. Previously a team leader at Fit-Global, responsible for frontend and backend developments for rental applications.
